@@ -1,7 +1,9 @@
 ﻿# WebAppLearningOOP
+
 WebAppLearning in C# showcasing API functionality using OOP
 
 # Summary
+
 WebAppLearning is a project based in characteristic of object-oriented programmaing that relies on the concept
 of classes.
 
